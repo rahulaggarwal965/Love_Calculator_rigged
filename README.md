@@ -1,7 +1,7 @@
 # Love_Calculator_rigged
 Made By Rahul and Ashwin
 
-<h4 style = "color:red"> A calculator with a rng (jk) algorithm to figure out how good a match two people are! </h1>
+<h4 style = "color:red"> A calculator with a sort-of-rng algorithm to figure out how good a match two people are! </h1>
 
 <strong> Credits: </strong>
 
