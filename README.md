@@ -19,7 +19,7 @@ Enjoy it!
 This is currently a work in progress, GUI isn't finished or in final version. Algorithm make recieve minor tweaks and changes. GUI/Logic are not integrated together yet. 
 
 
-Version: Alpha 0.1
+<em> Version: </em> Alpha 0.1
 
 
 <img src="https://github.com/rahulaggarwal965/Love_Calculator_rigged/blob/master/Love%20Calculator%20Graphics/Example.PNG" />
