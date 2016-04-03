@@ -3,9 +3,12 @@ Made By Rahul and Ashwin
 
 A calculator with a rng (jk) algorithm to figure out how good a match two people are! 
 
-Credits:
+<strong> Credits: </strong>
+
 Algorithm written by Rahul in Python
+
 Graphics/EU interface written by Ashwin in Java
+
 Idea was Ashwin & Rahul
 
 Enjoy it!
