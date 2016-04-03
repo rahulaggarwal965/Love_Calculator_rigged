@@ -17,7 +17,7 @@ Enjoy it!
 <hr>
 
 This is currently a work in progress, GUI isn't finished or in final version. Algorithm make recieve minor tweaks and changes. GUI/Logic are not integrated together yet. 
-
+<hr>
 
 <em> Version: </em> Alpha 0.1
 
