@@ -14,7 +14,7 @@ Made By Rahul and Ashwin
 
 Enjoy it!
 (Also, there are some rigged cases if you play around with some matches you think will work!)
-
+<hr>
 
 This is currently a work in progress, GUI isn't finished or in final version. Algorithm make recieve minor tweaks and changes. GUI/Logic are not integrated together yet. 
 
