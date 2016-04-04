@@ -8,6 +8,8 @@ Made By Rahul and Ashwin
  <li> Algorithm written by Rahul in Python </li>
 
  <li> Graphics/EU interface written by Ashwin in Java </li>
+ 
+ <li> Code integration solved by Ashwin</li>
 
  <li> Idea proposed by Rahul </li>
 </ul>
