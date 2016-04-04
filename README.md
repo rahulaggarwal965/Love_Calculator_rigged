@@ -12,6 +12,8 @@ Made By Rahul and Ashwin
  <li> Code integration solved by <strong>Ashwin</strong></li>
 
  <li> Idea proposed by <strong>Rahul</strong> </li>
+ 
+ <li> Readme/Wiki written by <strong>Ashwin</strong></li>
 </ul>
 
 Enjoy it!
