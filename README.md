@@ -5,13 +5,13 @@ Made By Rahul and Ashwin
 
 <strong> Credits: </strong>
 <ul> 
- <li> Algorithm written by Rahul in Python </li>
+ <li> Algorithm written by <strong>Rahul</strong> in Python </li>
 
- <li> Graphics/EU interface written by Ashwin in Java </li>
+ <li> Graphics/EU interface written by <strong>Ashwin</strong> in Java </li>
  
- <li> Code integration solved by Ashwin</li>
+ <li> Code integration solved by <strong>Ashwin</strong></li>
 
- <li> Idea proposed by Rahul </li>
+ <li> Idea proposed by <strong>Rahul</strong> </li>
 </ul>
 
 Enjoy it!
