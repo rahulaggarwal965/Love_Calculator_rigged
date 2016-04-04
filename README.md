@@ -9,7 +9,7 @@ Made By Rahul and Ashwin
 
  <li> Graphics/EU interface written by Ashwin in Java </li>
 
- <li> Idea was Ashwin & Rahul </li>
+ <li> Idea proposed by Rahul </li>
 </ul>
 
 Enjoy it!
