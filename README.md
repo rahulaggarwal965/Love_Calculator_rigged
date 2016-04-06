@@ -28,4 +28,4 @@ This is currently a work in progress, GUI isn't finished or in final version. Al
 <em> Version: </em> Alpha 0.1
 
 
-<img src="https://github.com/rahulaggarwal965/Love_Calculator_rigged/blob/master/Love%20Calculator%20Graphics/Example.PNG" />
+<img src="https://raw.githubusercontent.com/rahulaggarwal965/Love_Calculator_rigged/master/Example.PNG" />
