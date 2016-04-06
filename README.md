@@ -27,6 +27,7 @@ This is currently a work in progress, GUI isn't finished or in final version. Al
 
 <em> Version: </em> Alpha 0.1
 
+**DEMO:** https://youtu.be/_LhEGkOxm8c
 
 <img src="https://raw.githubusercontent.com/rahulaggarwal965/Love_Calculator_rigged/master/Example.PNG" />
 
