@@ -30,6 +30,4 @@ This is currently a work in progress, GUI isn't finished or in final version. Al
 
 <img src="https://raw.githubusercontent.com/rahulaggarwal965/Love_Calculator_rigged/master/Example.PNG" />
 
-<iframe width="420" height="315"
-src="https://youtu.be/_LhEGkOxm8c?autoplay=1">
-</iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/_LhEGkOxm8c" frameborder="0" allowfullscreen></iframe>
