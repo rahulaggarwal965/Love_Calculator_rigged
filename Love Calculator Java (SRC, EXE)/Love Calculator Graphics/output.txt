@@ -1,2 +1,0 @@
-Enter Name 1
-Enter Name 2
