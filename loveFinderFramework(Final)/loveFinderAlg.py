@@ -1,4 +1,3 @@
-import sys
 
 # Function for adding the rigged name pairs to the "rigged" list ------
 
@@ -70,10 +69,10 @@ add_name_pair_to_rigged_lists('tim', 'amy')
 compare_string = "loves"
 compare_list = list(compare_string)
 
-print("What is name 1?")
-name1 = sys.stdin.readline()
-print("What is name 2?")
-name2 = sys.stdin.readline()
+input = open('input.txt', 'r')
+name1 = input.readline()
+name2 = input.readline()
+input.close()
 
 name1 = name1.replace('\n', '')
 name1 = name1.replace(' ', '')
@@ -98,4 +97,8 @@ elif name1.lower() in rigged_name_list_2 and name2.lower() in rigged_name_list_1
 
 global_para_value = assign_love_values(int_global_compatibility)
 
-sys.stdout.write("%s and %s are %d percent compatible. %s" % (name1.capitalize(), name2.capitalize(), int_global_compatibility, global_para_value))
+output = open('output.txt', 'w')
+output.write(str(int_global_compatibility))
+output.close()
+
+# sys.stdout.write("%s and %s are %d percent compatible. %s" % (name1.capitalize(), name2.capitalize(), int_global_compatibility, global_para_value))
