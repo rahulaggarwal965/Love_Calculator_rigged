@@ -6,6 +6,8 @@ Made By Rahul and Ashwin
 <strong> Credits: </strong>
 <ul> 
  <li> Algorithm written by <strong>Rahul</strong> in Python </li>
+ 
+ <li> Rigged cases written by <strong>Rahul</strong> </li>
 
  <li> Graphics/EU interface written by <strong>Ashwin</strong> in Java </li>
  
