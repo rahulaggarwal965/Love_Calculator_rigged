@@ -63,7 +63,7 @@ rigged_name_list_1 = []
 rigged_name_list_2 = []
 # ------
 add_name_pair_to_rigged_lists('ashwin', 'java')
-add_name_pair_to_rigged_lists('ashwin', 'connie')
+add_name_pair_to_rigged_lists('Rahul', 'Jhanvi')
 add_name_pair_to_rigged_lists('tim', 'amy')
 # ADD RIGGED NAME PAIRS HERE -----
 
