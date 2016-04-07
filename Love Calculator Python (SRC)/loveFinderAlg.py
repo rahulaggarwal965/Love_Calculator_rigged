@@ -43,7 +43,7 @@ def assign_love_values(compatibility):
     temp_compatibility = round(compatibility, -1)
     values_map = {0: 'Are you serious?',
                   10: 'Do they even know each other\'s names?',
-                  20: 'Their relationship is unsubstantial and flimsy—completely unconvincing.',
+                  20: 'Their relationship is unsubstantial and flimsy, completely unconvincing.',
                   30: 'Give it another year.... Then maybe I\'ll reconsider.',
                   40: 'Dubious... but possible. ',
                   50: 'Maybe... just maybe...',
