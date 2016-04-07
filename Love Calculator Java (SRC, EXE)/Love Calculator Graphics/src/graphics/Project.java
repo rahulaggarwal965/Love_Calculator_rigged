@@ -37,7 +37,7 @@ public class Project {
 	public static void writeNames(String name1, String name2) {
 		try {
 			FileWriter fw = new FileWriter(new File("output.txt"));
-			fw.write(name1 + "\n" + name2);
+			fw.write(name1 + System.getProperty( "line.separator" ) + name2);
 			fw.flush();
 			fw.close();
 		
